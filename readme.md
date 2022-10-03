@@ -22,8 +22,8 @@ sudo ftdi_eeprom --flash-eeprom flash_digilent_smt1.conf
 
 注意：要确保设备连接至虚拟机而非主机，如烧写失败可尝试重新插拔并重试。
 
-![](E:\1.My_Tech_Studio\1.Project\MyJTAG\img\product1.jpg)
+![](.\img\product1.jpg)
 
-![](E:\1.My_Tech_Studio\1.Project\MyJTAG\img\product2.jpg)
+![](.\img\product2.jpg)
 
-![](E:\1.My_Tech_Studio\1.Project\MyJTAG\img\product3.jpg)
+![](.\img\product3.jpg)
